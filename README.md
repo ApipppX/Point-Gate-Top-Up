@@ -28,7 +28,7 @@ Proyek ini dibangun menggunakan teknologi web standar tanpa *dependency* ekstern
 Karena proyek ini berjalan sepenuhnya di sisi klien (Client-Side), Anda dapat langsung menjalankannya tanpa memerlukan konfigurasi server khusus.
 
 1. Clone repositori ini ke komputer lokal Anda:
-   `git clone [https://github.com/username-anda/point-gate.git](https://github.com/ApipppX/Point-Gate-Top-Up.git)`
+   `git clone https://github.com/ApipppX/Point-Gate-Top-Up.git`
 2. Buka folder proyek tersebut.
 3. Klik ganda pada file `index.html` untuk membukanya di browser (Chrome, Firefox, Safari, Edge, dll).
 4. (Opsional) Gunakan ekstensi seperti *Live Server* di VS Code untuk pengalaman pengembangan yang lebih baik.
